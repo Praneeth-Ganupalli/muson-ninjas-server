@@ -1,0 +1,146 @@
+[
+    {
+      "title": "Meditation",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/muso-ninjas-shche.appspot.com/o/covers%2FZIPnoCUlYFXkel3gMmghHlbO1yK2%2Fgreen.jpeg-for-Meditation?alt=media&token=62ddb714-7428-4c16-8e64-68d8322f3f82",
+      "songs": [
+        {
+          "id": 115661,
+          "artist": "Yoga School",
+          "title": "Morning Meditation"
+        },
+        {
+          "id": 181151,
+          "artist": "Yoga School",
+          "title": "Afternoon Meditation"
+        },
+        {
+          "id": 455649,
+          "artist": "Yoga School",
+          "title": "Evening Meditation"
+        },
+        {
+          "id": 564909,
+          "artist": "Yoga School",
+          "title": "Night Meditation"
+        }
+      ],
+      "description": "Calm and soothing",
+      "createdBy": "6694afa02b802064d6ebfdb0",
+      "slug": "meditation"
+    },
+    {
+      "title": "Nature Walks",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/muso-ninjas-shche.appspot.com/o/covers%2FZIPnoCUlYFXkel3gMmghHlbO1yK2%2Frocks.jpeg-for-Nature%20Walks?alt=media&token=a46be387-d4e8-4894-ae11-8656cb55b990",
+      "songs": [
+        {
+          "id": 964593,
+          "artist": "B.J. Thomas",
+          "title": "Raindrops're falling on my head"
+        },
+        {
+          "id": 713065,
+          "artist": "B.J. Thomas",
+          "title": "Long way"
+        },
+        {
+          "id": 669505,
+          "artist": "B.J. Thomas",
+          "title": "Coming home"
+        }
+      ],
+      "description": "For any destinations",
+      "createdBy": "6694afa02b802064d6ebfdb0",
+      "slug": "nature-walks"
+    },
+    {
+      "title": "Bed time music",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/muso-ninjas-shche.appspot.com/o/covers%2FZIPnoCUlYFXkel3gMmghHlbO1yK2%2Fwaterfall.png-for-Bed%20time%20music?alt=media&token=2a9760f7-767b-4786-bbbd-a54d21a44298",
+      "songs": [
+        {
+          "id": 336568,
+          "artist": "Sleeping Beauty",
+          "title": "Sleep Tight Song"
+        },
+        {
+          "id": 681832,
+          "artist": "Sleeping Beauty",
+          "title": "Twinkle Twinkle Little Star"
+        },
+        {
+          "id": 408770,
+          "artist": "Sleeping Beauty",
+          "title": "Oh, The Moon Is Shining.."
+        }
+      ],
+      "description": "Relaxing tunes",
+      "createdBy": "6694afa02b802064d6ebfdb0",
+      "slug": "bed-time-music"
+    },
+    {
+      "title": "Sport",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/muso-ninjas-shche.appspot.com/o/covers%2FZIPnoCUlYFXkel3gMmghHlbO1yK2%2Fforest.png-for-Sport?alt=media&token=4a5a8e89-37eb-4a9e-83d1-f974f57e3f60",
+      "songs": [],
+      "description": "Ready, set, go! As energetic as it gets :))",
+      "createdBy": "6694afa02b802064d6ebfdb0",
+      "slug": "sport"
+    },
+    {
+      "title": "Juzz",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/muso-ninjas-shche.appspot.com/o/covers%2FZivBTQ6RrjbgWVf5HeJAei7tSXI2%2Fbeauty.jpeg-for-Juzz?alt=media&token=dc39fc38-b204-4ec3-a2f1-1b001e3ecf22",
+      "songs": [
+        {
+          "id": 403964,
+          "artist": "Louis Armstrong",
+          "title": "What A Wonderful World"
+        },
+        {
+          "id": 799700,
+          "artist": "Louis Armstrong",
+          "title": "I see trees of green"
+        },
+        {
+          "id": 984775,
+          "artist": "Louis Armstrong",
+          "title": "Red roses too"
+        },
+        {
+          "id": 667024,
+          "artist": "Louis Armstrong",
+          "title": "I see them bloom"
+        },
+        {
+          "id": 965404,
+          "artist": "Louis Armstrong",
+          "title": "For me and you…"
+        }
+      ],
+      "description": "All Time Best Juzz Hits",
+      "createdBy": "6694b074ca372da149e988a3",
+      "slug": "juzz"
+    },
+    {
+      "title": "Easy life",
+      "coverUrl": "https://www.pixelstalk.net/wp-content/uploads/2016/08/Background-Beautiful-Nature-Full-HD.jpg",
+      "songs": [
+        {
+          "artist": "Easy Group",
+          "title": "Smooth Afternoon34"
+        },
+        {
+          "artist": "Easy Group",
+          "title": "Smooth Afternoon"
+        },
+        {
+          "artist": "Easy Group",
+          "title": "Smooth Afternoon34"
+        },
+        {
+          "artist": "Easy Group",
+          "title": "Smooth Afternoon34"
+        }
+      ],
+      "description": "Time to rest",
+      "createdBy": "6694afe3ad219cbc8ea519a3"
+    }
+  ]
+  
