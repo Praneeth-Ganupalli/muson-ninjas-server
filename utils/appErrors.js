@@ -6,4 +6,10 @@ const handleDuplicateKeyError=(er)=>{
 exports.handleJwtExpiredError = ()=>{
     return `Token Expired Please Login Again to continue`;
 }
+exports.handleInvalidJwt = ()=>{
+    return {
+        message:'Invalid token please login again',
+        code:401
+    }
+}
 exports.handleDuplicateKeyError = handleDuplicateKeyError;

@@ -36,7 +36,11 @@ app.use((err,req,res,next)=>{
     {
         error.message = appErrors.handleJwtExpiredError();
     }
-    res.status(400).json({
+    if(err.name ==='JsonWebTokenError')
+    {
+        error = appErrors.handleInvalidJwt();
+    }
+    res.status(error.code||400).json({
         status:'failed',
         message:error.message,
         error:err
